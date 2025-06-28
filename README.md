@@ -21,7 +21,7 @@ The project includes all key stages of a typical data analysis workflow – from
    Performed descriptive statistics, DAX measures, trend analysis, and KPI calculations in Excel (Power Pivot, PivotTables).
 
 5. **Dashboard Design**  
-   Created a functional spec and then designed two Tableau dashboards:  
+   Created a functional spec and then designed two [Tableau dashboards:](https://public.tableau.com/views/Adventure_Works_17511047622390/YearStatsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
    - Overview Dashboard (strategic view)  
    - Yearly Performance Dashboard (detailed, filterable insights)
 
