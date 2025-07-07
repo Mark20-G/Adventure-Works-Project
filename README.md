@@ -50,9 +50,13 @@ Hi! I'm Mark,
 
 I am currently building a portfolio of real-world data projects, combining SQL, data modeling, and business intelligence.
 
-This is one of several projects in my GitHub portfolio — you can also check out my [📊 Tableau Dashboards](https://github.com/Mark20-G/Tableau-Dashboards) Project for visual storytelling and insights
-you can also check out my [📊 data warehouse](https://github.com/Mark20-G/SQL-DWH-Project) project
-where i built a modern Data Warehouse using SQL server including ETL, data modeling and analytics.
+This is one of several projects in my GitHub portfolio — you can also check out my other projects:
+
+[📊 Tableau Dashboards](https://github.com/Mark20-G/Tableau-Dashboards)
+
+[📊 data warehouse](https://github.com/Mark20-G/SQL-DWH-Project) 
+
+[📊 e-commerce](https://github.com/Mark20-G/E-commerce-Project)
 
 More projects coming soon – stay tuned! 🚀
 
